@@ -1,0 +1,22 @@
+{
+  "groups": [
+    {
+      "name": "spring.cmm",
+      "type": "com.cmm.db.DataSourceProperties",
+      "sourceType": "com.cmm.db.DataSourceProperties"
+    }
+  ],
+  "properties": [
+    {
+      "name": "spring.cmm.data-source",
+      "type": "java.util.Map<java.lang.String,com.cmm.db.DataSourceBase>",
+      "sourceType": "com.cmm.db.DataSourceProperties"
+    },
+    {
+      "name": "spring.cmm.type",
+      "type": "java.lang.Class<? extends javax.sql.DataSource>",
+      "sourceType": "com.cmm.db.DataSourceProperties"
+    }
+  ],
+  "hints": []
+}
