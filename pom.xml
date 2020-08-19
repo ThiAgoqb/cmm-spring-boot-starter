@@ -19,7 +19,8 @@
 
 
     <modules>
-        <module>multiple-db-spring-boot-starter</module>
+        <module>cmm-db-spring-boot-starter</module>
+        <module>cmm-pay-spring-boot-starter</module>
     </modules>
 
     <build>
